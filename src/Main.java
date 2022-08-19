@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Commit, Commit, Commit");
+        System.out.println("Привет, Мир!");
     }
 }
